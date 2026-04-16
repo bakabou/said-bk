@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5b86e47e.css",
+    "main.js": "/static/js/main.acc28156.js",
+    "static/media/mlove.png": "/static/media/mlove.d18937309e948b633297.png",
+    "static/media/morotoadv.png": "/static/media/morotoadv.4ec811c41ac1c4dd6d4d.png",
+    "static/media/moraki.png": "/static/media/moraki.90f23d4c315e34ea0eb6.png",
+    "static/media/artdesert.png": "/static/media/artdesert.2626a017ad46365c7a13.png",
+    "index.html": "/index.html",
+    "main.5b86e47e.css.map": "/static/css/main.5b86e47e.css.map",
+    "main.acc28156.js.map": "/static/js/main.acc28156.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b86e47e.css",
+    "static/js/main.acc28156.js"
+  ]
+}
